@@ -19,6 +19,9 @@ public class SeleniumMasterTest {
         // populate this...
 
         seleniumMaster.placeOrder(clientAddressDetails);
+
+        // i expect to have an order sent to the clientAddressDetails with the products in the basket
+        
     }
 
 }
